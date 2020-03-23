@@ -1,0 +1,5 @@
+url: https://github.com/fadriqueclickennet/dashboard-module
+versions:
+    "1.0.0":
+        added:
+            - Laravel 5.8 compatibility

@@ -1,0 +1,26 @@
+{
+  "name": "fadriqueclickennet/dashboard-module",
+  "description": "Dashboard module for Clickennet. Handles the display of the dashboard.",
+  "keywords": [
+    "clickennet",
+    "cms",
+    "dashboard"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "fadriqueclickennet",
+      "email": "fadriqueclickennet@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1.3",
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^2.12"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
